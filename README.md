@@ -47,3 +47,5 @@ docs/
 ## Tech Stack
 - Java 21
 - IntelliJ IDEA
+
+Submitted for Java cohort assignment.
